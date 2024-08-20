@@ -1,1 +1,1 @@
-# sem1_pprokom
+# sem1-pprokom
