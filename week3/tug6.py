@@ -6,3 +6,5 @@ Please do not drink it.
 Sincerely,
 Bob'''
 a.split('\n')
+
+print(a)
