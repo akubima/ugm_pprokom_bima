@@ -1,6 +1,5 @@
 # PPROKOM PRT2
-# Authored by Bima M. B. Sajjad
-# NIM: 24/538197/SV/24473
+# Authored by @akubima
 # 19/08/2024
 
 # Meminta input user untuk detik berupa integer
