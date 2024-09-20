@@ -6,7 +6,7 @@ d = {100,200,300}
 separator = "-"*50
 
 print(separator)
-print("A & B = ", format(a.intersection(b)))
+print("A & D = ", format(a.intersection(d)))
 print(separator)
 print("B & D = ", format(b.intersection(d)))
 print(separator)
